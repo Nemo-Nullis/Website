@@ -23,15 +23,15 @@ const DownloadApp = () => {
             </p>
           </div>
           <div className="flex flex-wrap items-center justify-center gap-6 md:justify-start">
-            <Button href="/" className="min-w-[120px]">
+            <Button href="https://nullionchain.com/nullion-1.0.0-win64.zip" className="min-w-[120px]">
               {/*<img src={Logo} width={24} height={24} alt="" />{" "}*/}
               <p>Windows</p>
             </Button>
-            <Button href="/" className="min-w-[120px]">
+            <Button href="https://nullionchain.com/nullion-1.0.0-arm64-apple-darwin.tar.gz" className="min-w-[120px]">
               {/*<img src={Logo} width={24} height={24} alt="" />{" "}*/}
               <p>MacOS</p>
             </Button>
-            <Button href="/" className="min-w-[120px]">
+            <Button href="https://nullionchain.com/nullion-1.0.0-x86_64-linux-gnu.tar.gz" className="min-w-[120px]">
               {/*<img src={Logo} width={24} height={24} alt="" />{" "}*/}
               <p>Linux</p>
             </Button>
