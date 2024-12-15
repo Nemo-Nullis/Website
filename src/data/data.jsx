@@ -107,10 +107,7 @@ export const FeaturesData = [
 export const RoadmapData = [
   {
     name: "Phase 1: Genesis (2025)",
-    description: "Launch Nullion Mainnet on January 1, 2025.
-Distribute 500,000 NULL premine for founder, community, and operational reserves.
-Deploy official Nullion Wallet and Mining Pool.
-Release Blockchain Explorer for real-time monitoring",
+    description: "Genesis block and mainnet launch",
   },
   {
     name: "Q2 2024",
