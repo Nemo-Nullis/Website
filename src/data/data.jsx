@@ -140,6 +140,82 @@ export const FaqData = [
     ques: "Is there an ICO for Nullion?",
     ans: "No, Nullion does not have an ICO. The network launched without any pre-sale, following a fair mining model. The 500,000 NULL premine is allocated for development, operations, founder`s allocation and community growth.",
   },
+    {
+    ques: "How is the premine allocated?",
+    ans: "The 500,000 NULL premine is allocated as follows: 250,000 NULL for the founder, 150,000 NULL for community initiatives, and 100,000 NULL for operational reserves.",
+  },
+    {
+    ques: " When will Nullion Blockchain go online?",
+    ans: "Nullion Blockchain is set to launch on January 1, 2025, at 00:00 (midnight), with mining and transactions fully operational.",
+  },
+    {
+    ques: "Does Nullion support smart contracts?",
+    ans: "No, Nullion focuses on secure and efficient decentralized transactions without smart contract functionality, staying true to its streamlined design philosophy.",
+  },
+    {
+    ques: "What is the transaction throughput (TPS) of Nullion?",
+    ans: "Nullion supports approximately 26.67 transactions per second (TPS), thanks to its 2 MB block size and 5-minute block time.",
+  },
+    {
+    ques: "What consensus mechanism does Nullion use?",
+    ans: "Nullion uses Proof-of-Work (PoW), ensuring security and decentralization with Bitcoin-inspired cryptographic principles.",
+  },
+    {
+    ques: "What is the wallet address format for Nullion?",
+    ans: "Nullion wallet addresses start with the prefix N, making them unique and easily identifiable.",
+  },
+    {
+    ques: "Where can I find Nullion’s source code?",
+    ans: "You can access Nullion’s open-source codebase on GitHub: https://github.com/Nemo-Nullis.",
+  },
+    {
+    ques: "How can I mine NULL?",
+    ans: "You can mine NULL by joining the Nullion Mining Pool and using compatible mining software and hardware.",
+  },
+    {
+    ques: "What is the initial block reward, and how does it change?",
+    ans: "The initial block reward is 50 NULL, halving every 2 years to ensure a controlled and fair supply.",
+  },
+    {
+    ques: "When will the last NULL be mined?",
+    ans: "The last NULL is expected to be mined around the year 2052, after which miners will earn transaction fees to secure the network.",
+  },
+    {
+    ques: "How do I create a wallet?",
+    ans: "You can create a wallet by downloading the official Nullion Wallet from the Nullion Website. Securely store your private keys to protect your funds.",
+  },
+    {
+    ques: "How can I track transactions?",
+    ans: "All transactions and blocks can be tracked using the Nullion Blockchain Explorer.",
+  },
+    {
+    ques: "Are there transaction fees?",
+    ans: "Yes, small transaction fees incentivize miners and ensure efficient network operations.",
+  },
+    {
+    ques: "How can I join the Nullion community?",
+    ans: "You can join the Nullion community via: https://t.me/NullionChain, https://x.com/NullionChain.",
+  },
+    {
+    ques: "How is Nullion governed?",
+    ans: "Nullion follows a community-driven approach, with transparent decision-making through governance proposals and discussions.",
+  },
+    {
+    ques: "What is Nullion’s primary focus?",
+    ans: "Nullion focuses on creating a faster, decentralized, and community-driven blockchain, empowering users with financial sovereignty.",
+  },
+  {
+    ques: "How secure is Nullion Blockchain?",
+    ans: "Nullion is built on proven cryptographic foundations, ensuring robust security against attacks through its PoW mechanism.",
+  },
+  {
+    ques: "How does Nullion handle scalability?",
+    ans: "Nullion’s 2 MB block size and fast block times address scalability needs, with plans for further optimization and potential Layer 2 solutions.",
+  },
+  {
+    ques: "Is Nullion resistant to centralization?",
+    ans: "Yes, Nullion promotes decentralization through its open-source design, fair mining practices, and community-focused governance.",
+  },
 ];
 
 export const Missions = [
