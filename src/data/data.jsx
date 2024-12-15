@@ -87,7 +87,7 @@ export const FeaturesData = [
   {
     name: "Speed",
     description:
-      "With a 5-minute block time and a throughput of 26.67 transactions per second (TPS), Nullion ensures faster and more efficient transactions",
+      "With a 5-minute block time and a throughput of 26.67 transactions per second (TPS), Nullion ensures fast and more efficient transactions",
     icon: <BarChart2 />,
   },
   {
@@ -99,7 +99,7 @@ export const FeaturesData = [
   {
     name: "Community",
     description:
-      "The community has a voice in the governance of Nullion.",
+      "Nullion empowers its community to shape the blockchain’s future through inclusive and transparent decision-making.",
     icon: <BrainCircuit />,
   },
 ];
