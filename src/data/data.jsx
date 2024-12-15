@@ -136,6 +136,10 @@ export const FaqData = [
     ques: "Why is it called Nullion?",
     ans: "The name Nullion represents the concept of Null, symbolizing a beginning from nothing that evolves into something transformative, aligning with the blockchain’s ethos of creating endless possibilities.",
   },
+    {
+    ques: "Is there an ICO for Nullion?",
+    ans: "No, Nullion does not have an ICO. The network launched without any pre-sale, following a fair mining model. The 500,000 NULL premine is allocated for development, operations, founder`s allocation and community growth.",
+  },
 ];
 
 export const Missions = [
