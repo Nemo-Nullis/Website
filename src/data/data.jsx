@@ -39,10 +39,6 @@ export const SocialLinks = [
     url: "https://t.me/NullionChain",
   },
   {
-    icon: <Instagram/>,
-    url: "/",
-  },
-  {
     icon: <Twitter/>,
     url: "/",
   },
