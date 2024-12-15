@@ -125,16 +125,16 @@ export const RoadmapData = [
 
 export const FaqData = [
   {
-    ques: "Is Nullion Mineable?",
-    ans: "Yes, Nullion is mineable and uses the SHA256 algo. Allowing it to be mined with existing Bitcoin miners.",
+    ques: "What is Nullion Blockchain?",
+    ans: "Nullion Blockchain is a decentralized, secure, and scalable network inspired by Bitcoin's design and cryptography, offering faster transactions and a transparent, community-driven ecosystem.",
   },
   {
-    ques: "Is NULL a fork of Bitcoin?",
-    ans: "Yes, Nullion was forked from Bitcoin and became it's own blockchain.",
+    ques: "Who founded Nullion Blockchain?",
+    ans: "Nullion was founded by Nemo Nullis, a pseudonym chosen to emphasize the blockchain’s philosophy of decentralization and collective innovation. The pseudonym reflects a desire to prioritize the Nullion community and project vision over individual recognition.",
   },
   {
-    ques: "Is Nullion Decentralized?",
-    ans: "Yes! Nullion is fully decentralized. Anyone can contribute to it's development.",
+    ques: "Why is it called Nullion?",
+    ans: "The name Nullion represents the concept of Null, symbolizing a beginning from nothing that evolves into something transformative, aligning with the blockchain’s ethos of creating endless possibilities.",
   },
 ];
 
