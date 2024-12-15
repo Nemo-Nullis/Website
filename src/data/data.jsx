@@ -42,10 +42,6 @@ export const SocialLinks = [
     icon: <Twitter/>,
     url: "https://x.com/Nullionchain",
   },
-  {
-    icon: <Linkedin/>,
-    url: "/",
-  },
 ];
 
 export const ServiceLinks = [
