@@ -107,19 +107,19 @@ export const FeaturesData = [
 export const RoadmapData = [
   {
     name: "Phase 1: Genesis (2025)",
-    description: "Genesis block and mainnet launch",
+    description: "Launch Nullion Mainnet, distribute premine, and release essential tools like the wallet, mining pool, and blockchain explorer.",
   },
   {
-    name: "Q2 2024",
-    description: "Blockchain Explorer release",
+    name: "Phase 2: Early Adoption (2025-2006)",
+    description: "Stabilize the network, attract miners, and foster community participation with educational resources and decentralized mining.",
   },
   {
-    name: "Q3 2024",
-    description: "Personalized wallet development",
+    name: "Phase 3: Growth and Ecosystem Expansion (2026-2028)",
+    description: "Expand the ecosystem through partnerships, developer incentives, and scalability optimizations.",
   },
   {
-    name: "Q4 2024",
-    description: "Open-source mining software",
+    name: "Phase 4: Long-Term Decentralization (2028 and Beyond)",
+    description: "Empower community governance, enhance scalability with Layer 2 solutions, and ensure long-term network sustainability.",
   },
 ];
 
