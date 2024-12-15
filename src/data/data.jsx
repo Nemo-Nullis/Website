@@ -40,7 +40,7 @@ export const SocialLinks = [
   },
   {
     icon: <Twitter/>,
-    url: "/",
+    url: "https://x.com/Nullionchain",
   },
   {
     icon: <Linkedin/>,
