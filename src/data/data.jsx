@@ -96,12 +96,6 @@ export const FeaturesData = [
       "Our code is open-source and community-driven, Nullion ensures transparency and distributed control",
     icon: <Server />,
   },
-    {
-    name: "No ICO",
-    description:
-      "Nullion launched without an ICO, focusing on fairness and sustainability. Mining and community contributions drive token distribution, prioritizing long-term growth over profit.",
-    icon: <Money />,
-  },
   {
     name: "Community",
     description:
