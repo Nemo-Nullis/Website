@@ -107,7 +107,7 @@ export const FeaturesData = [
 export const RoadmapData = [
   {
     name: "Phase 1: Genesis (2025)",
-    description: "Launch Nullion Mainnet, distribute premine, and release essential tools like the wallet, mining pool, and blockchain explorer.",
+    description: "Nullion Mainnet launch, distribute premine, and release essential tools like the wallet, mining pool, and blockchain explorer.",
   },
   {
     name: "Phase 2: Early Adoption (2025-2006)",
@@ -130,7 +130,7 @@ export const FaqData = [
   },
   {
     ques: "Is NULL a fork of Bitcoin?",
-    ans: "Yes, Nullion forked from Bitcoin and became it's own blockchain.",
+    ans: "Yes, Nullion was forked from Bitcoin and became it's own blockchain.",
   },
   {
     ques: "Is Nullion Decentralized?",
