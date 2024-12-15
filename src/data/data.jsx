@@ -35,8 +35,8 @@ export const NavLinks = [
 
 export const SocialLinks = [
   {
-    icon: <Facebook/>,
-    url: "/",
+    icon: <Telegram/>,
+    url: "/https://t.me/NullionChain",
   },
   {
     icon: <Instagram/>,
