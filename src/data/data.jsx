@@ -81,20 +81,26 @@ export const CompanyLinks = [
 export const FeaturesData = [
   {
     name: "Security",
-    description: "NULL is based on the secure Bitcoin codebase",
+    description: "NULL employs SHA-256d and Proof-of-Work to ensure a secure, attack-resistant network based on Bitcoin codebase",
     icon: <ShieldHalf />,
   },
   {
     name: "Speed",
     description:
-      "Transactions on Nullion are twice as fast as Bitcoin",
+      "With a 5-minute block time and a throughput of 26.67 transactions per second (TPS), Nullion ensures faster and more efficient transactions",
     icon: <BarChart2 />,
   },
   {
     name: "Decentralized",
     description:
-      "Our code is open-source allowing the community to contribute",
+      "Our code is open-source and community-driven, Nullion ensures transparency and distributed control",
     icon: <Server />,
+  },
+    {
+    name: "No ICO",
+    description:
+      "Nullion launched without an ICO, focusing on fairness and sustainability. Mining and community contributions drive token distribution, prioritizing long-term growth over profit.",
+    icon: <Money />,
   },
   {
     name: "Community",
