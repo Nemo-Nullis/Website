@@ -23,7 +23,7 @@ const Portfolio = () => {
           Additional Information
           </h1>
           <p className="max-w-xl text-center md:text-left">
-          - Launch Timeline: Mining will officially begin on January 1, 2025, with a starting block reward of 6.25 NULL.<br /><br />
+          - Launch Timeline: Mining will officially begin on January 1, 2025, with a starting block reward of 50 NULL.<br /><br />
           - Premine Allocation: A small portion of 500,000 NULL is reserved to fund community initiatives, operational costs, future development ,while 50% (250,000) is reserved for the founder.<br /><br />
           - Join the Movement: Stay updated and be part of the conversation by joining our Telegram community: [https://t.me/NullionChain].
           </p>
