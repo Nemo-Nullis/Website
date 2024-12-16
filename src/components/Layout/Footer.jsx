@@ -13,7 +13,7 @@ const Footer = () => {
 
           <div className="flex flex-col gap-3">
             <p className="max-w-md text-center md:text-left">
-            A sustainable and community-driven ecosystem
+            A Fast, Secure, Scalable Decentralized Blockchain for All
             </p>
             <ul className="flex items-center justify-center gap-2 md:justify-start">
               {SocialLinks.map((link, index) => (
