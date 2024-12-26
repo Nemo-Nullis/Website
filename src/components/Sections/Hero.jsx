@@ -7,8 +7,11 @@ import GradientButton from "../ui/GradientButton";
 import HeroBanner from "../../assets/images/hero-banner.png";
 import Modal from "../Modal/Modal";
 import Nullion from "../../assets/images/nullion.png";
+import LaunchCountdown from "../LaunchCountdown";
 
-import { CircleArrowRight } from "lucide-react";
+//import { CircleArrowRight } from "lucide-react";
+
+
 
 const Hero = () => {
   const [modalOpen, setModalOpen] = useState(false);
@@ -29,6 +32,7 @@ const Hero = () => {
       <Tiles />
 
       <Container className="pointer-events-none inset-x-0 z-[5] flex items-center justify-center">
+        <LaunchCountdown />
         <br /><br />
         <div className="flex flex-col gap-12">
           <div className="flex w-full flex-col items-center gap-8">
