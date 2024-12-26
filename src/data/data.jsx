@@ -31,6 +31,10 @@ export const NavLinks = [
     title: "Contact",
     url: "/contact",
   },
+  {
+    title: "Whitepaper",
+    url: "https://nullionchain.com/Nullion-Whitepaper.pdf",
+  },
 ];
 
 export const SocialLinks = [
@@ -67,6 +71,10 @@ export const CompanyLinks = [
   {
     title: "Contact",
     url: "/contact",
+  },
+  {
+    title: "Whitepaper",
+    url: "https://nullionchain.com/Nullion-Whitepaper.pdf",
   },
 ];
 
