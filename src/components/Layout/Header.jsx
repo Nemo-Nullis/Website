@@ -73,6 +73,7 @@ const Header = () => {
               </Link>
             </li>
           ))}
+          <li><a href="https://nullionchain.com/Nullion-Whitepaper.pdf" target="_blank">Whitepaper</a></li>
         </ul>
       </nav>
 
