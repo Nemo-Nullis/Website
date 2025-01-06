@@ -57,6 +57,10 @@ export const ServiceLinks = [
     title: "Download Miner",
     url: "https://cpuminergui.sourceforge.net/",
   },
+      {
+    title: "Nullion on Reddit",
+    url: "https://www.reddit.com/r/Nullion_Blockchain/",
+  },
 ];
 
 export const CompanyLinks = [
