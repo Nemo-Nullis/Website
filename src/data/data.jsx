@@ -162,7 +162,7 @@ export const FaqData = [
   },
     {
     ques: "What is the wallet address format for Nullion?",
-    ans: "Nullion wallet addresses start with the prefix N, making them unique and easily identifiable.",
+    ans: "Nullion wallet addresses start with the prefix Nutll, N & P. Making them unique and easily identifiable.",
   },
     {
     ques: "Where can I find Nullion’s source code?",
