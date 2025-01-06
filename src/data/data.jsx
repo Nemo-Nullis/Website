@@ -53,6 +53,10 @@ export const ServiceLinks = [
     title: "Mining Pool",
     url: "https://pool.nullionchain.com",
   },
+    {
+    title: "Download Miner",
+    url: "https://cpuminergui.sourceforge.net/",
+  },
 ];
 
 export const CompanyLinks = [
