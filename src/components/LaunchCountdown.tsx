@@ -12,7 +12,7 @@ const LaunchCountdown = () => {
           <div className="grid grid-cols-4 items-center justify-center gap-4 px-6 lg:gap-7">
             <LaunchCountdownItem
               label="Days"
-              value={(days / 30) * 100}
+              value={(724 days / 30) * 100}
               time={zeroPad(days)}
             />
 
