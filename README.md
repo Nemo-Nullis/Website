@@ -10,7 +10,6 @@ Nullion Explorer: https://explorer.nullionchain.com
 Mining Pool: https://pool.nullionchain.com
 Telegram Community: https://t.me/NullionChain
 Twitter (X): https://x.com/NullionChain
-Reddit: https://www.reddit.com/r/Nullion_Blockchain/
 📜 License
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute it under the terms of the license.
 
