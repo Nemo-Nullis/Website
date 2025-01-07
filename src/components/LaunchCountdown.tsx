@@ -31,7 +31,7 @@ const LaunchCountdown = () => {
             <LaunchCountdownItem
               label="Seconds"
               value={(seconds / 60) * 100}
-              time={zeroPad(seconds)}
+              time={zeroPad(60)}
             />
           </div>
         )}
