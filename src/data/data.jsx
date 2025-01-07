@@ -42,10 +42,6 @@ export const SocialLinks = [
     icon: <Twitter/>,
     url: "https://x.com/Nullionchain",
   },
-    {
-    icon: <Github/>,
-    url: "https://github.com/Nemo-Nullis",
-  },
 ];
 
 export const ServiceLinks = [
