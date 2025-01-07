@@ -13,7 +13,7 @@ const LaunchCountdown = () => {
             <LaunchCountdownItem
               label="Days"
               value={(days / 30) * 100}
-              time={zeroPad(days)}
+              time={zeroPad(724)}
             />
 
             <LaunchCountdownItem
