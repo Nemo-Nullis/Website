@@ -59,7 +59,7 @@ export const ServiceLinks = [
   },
     {
     title: "Github",
-    url: "https://github.com/Nemo-Nullis",
+    url: "https://github.com/Nemo-Nullis/NULLION",
   },
 ];
 
