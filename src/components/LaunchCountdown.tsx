@@ -4,7 +4,7 @@ import LaunchCountdownItem from "./LaunchCountdownItem";
 const LaunchCountdown = () => {
   return (
     <div className="flex h-full flex-col items-center justify-center gap-8">
-      <h4 className="text-4xl text-white">Countdown to Nullion's first halving from 50 to 25 NULL block rewards!"</h4>
+      <h4 className="text-4xl text-white">Nullion's first halving from 50 to 25 NULL block rewards!"</h4>
 
       <Countdown
         date={1735689600 * 1000}
