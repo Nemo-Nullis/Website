@@ -57,6 +57,10 @@ export const ServiceLinks = [
     title: "Download Miner",
     url: "https://cpuminergui.sourceforge.net/",
   },
+    {
+    title: "Github",
+    url: "https://github.com/Nemo-Nullis",
+  },
 ];
 
 export const CompanyLinks = [
